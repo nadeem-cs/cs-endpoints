@@ -45,7 +45,7 @@
       "ImageDelivery": "https://au-images.contentstack.com/",
       "Personalize": {
         "Management": "https://au-personalize-api.contentstack.com",
-        "Edge": "https://au-personalize-edge.contentstack.com",
+        "Edge": "https://au-personalize-edge.contentstack.com"
       }
     }
   },
