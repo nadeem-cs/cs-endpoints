@@ -11,6 +11,7 @@
       "GraphQL": "https://graphql.contentstack.com",
       "SCIM": "https://auth-api.contentstack.com",
       "ImageDelivery": "https://images.contentstack.io/",
+      "Launch": "https://launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://personalize-api.contentstack.com",
         "Edge": "https://personalize-edge.contentstack.com"
@@ -27,6 +28,7 @@
       "GraphQL": "https://eu-graphql.contentstack.com",
       "SCIM": "https://eu-auth-api.contentstack.com",
       "ImageDelivery": "https://eu-images.contentstack.com/",
+      "Launch": "https://eu-launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://eu-personalize-api.contentstack.com",
         "Edge": "https://eu-personalize-edge.contentstack.com"
@@ -43,6 +45,7 @@
       "GraphQL": "https://au-graphql.contentstack.com",
       "SCIM": "https://au-auth-api.contentstack.com",
       "ImageDelivery": "https://au-images.contentstack.com/",
+      "Launch": "https://au-launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://au-personalize-api.contentstack.com",
         "Edge": "https://au-personalize-edge.contentstack.com"
@@ -61,6 +64,7 @@
       "GraphQL": "https://azure-na-graphql.contentstack.com",
       "SCIM": "https://azure-na-auth-api.contentstack.com",
       "ImageDelivery": "https://azure-na-images.contentstack.com/",
+      "Launch": "https://azure-na-launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://azure-na-personalize-api.contentstack.com",
         "Edge": "https://azure-na-personalize-edge.contentstack.com"
@@ -77,6 +81,7 @@
       "GraphQL": "https://azure-eu-graphql.contentstack.com",
       "SCIM": "https://azure-eu-auth-api.contentstack.com",
       "ImageDelivery": "https://azure-eu-images.contentstack.com/",
+      "Launch": "https://azure-eu-launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://azure-eu-personalize-api.contentstack.com",
         "Edge": "https://azure-eu-personalize-edge.contentstack.com"
@@ -95,6 +100,7 @@
       "GraphQL": "https://gcp-na-graphql.contentstack.com",
       "SCIM": "https://gcp-na-auth-api.contentstack.com",
       "ImageDelivery": "https://gcp-na-images.contentstack.com/",
+      "Launch": "https://gcp-na-launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://gcp-na-personalize-api.contentstack.com",
         "Edge": "https://gcp-na-personalize-edge.contentstack.com"
@@ -111,6 +117,7 @@
       "GraphQL": "https://gcp-eu-graphql.contentstack.com",
       "SCIM": "https://gcp-eu-auth-api.contentstack.com",
       "ImageDelivery": "https://gcp-eu-images.contentstack.com/",
+      "Launch": "https://gcp-eu-launch-api.contentstack.com",
       "Personalize": {
         "Management": "https://gcp-eu-personalize-api.contentstack.com",
         "Edge": "https://gcp-eu-personalize-edge.contentstack.com"
