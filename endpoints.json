@@ -14,7 +14,8 @@
       "Launch": "https://launch-api.contentstack.com",
       "DeveloperHub": "https://developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://personalize-edge.contentstack.com",
+      "Preview": "https://rest-preview.contentstack.com"
     },
     "EU": {
       "CDA": "https://eu-cdn.contentstack.com",
@@ -30,7 +31,8 @@
       "Launch": "https://eu-launch-api.contentstack.com",
       "DeveloperHub": "https://eu-developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://eu-personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://eu-personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://eu-personalize-edge.contentstack.com",
+      "Preview": "https://eu-rest-preview.contentstack.com"
     },
     "AU": {
       "CDA": "https://au-cdn.contentstack.com",
@@ -46,7 +48,8 @@
       "Launch": "https://au-launch-api.contentstack.com",
       "DeveloperHub": "https://au-developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://au-personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://au-personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://au-personalize-edge.contentstack.com",
+      "Preview": "https://au-rest-preview.contentstack.com"
     }
   },
   "AZURE": {
@@ -64,7 +67,8 @@
       "Launch": "https://azure-na-launch-api.contentstack.com",
       "DeveloperHub": "https://azure-na-developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://azure-na-personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://azure-na-personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://azure-na-personalize-edge.contentstack.com",
+      "Preview": "https://azure-na-rest-preview.contentstack.com"
     },
     "EU": {
       "CDA": "https://azure-eu-cdn.contentstack.com",
@@ -80,7 +84,8 @@
       "Launch": "https://azure-eu-launch-api.contentstack.com",
       "DeveloperHub": "https://azure-eu-developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://azure-eu-personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://azure-eu-personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://azure-eu-personalize-edge.contentstack.com",
+      "Preview": "https://azure-eu-rest-preview.contentstack.com"
     }
   },
   "GCP": {
@@ -98,7 +103,8 @@
       "Launch": "https://gcp-na-launch-api.contentstack.com",
       "DeveloperHub": "https://gcp-na-developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://gcp-na-personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://gcp-na-personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://gcp-na-personalize-edge.contentstack.com",
+      "Preview": "https://gcp-na-rest-preview.contentstack.com"
     },
     "EU": {
       "CDA": "https://gcp-eu-cdn.contentstack.com",
@@ -114,7 +120,8 @@
       "Launch": "https://gcp-eu-launch-api.contentstack.com",
       "DeveloperHub": "https://gcp-eu-developerhub-api.contentstack.com",
       "PersonalizeManagement": "https://gcp-eu-personalize-api.contentstack.com",
-      "PersonalizeEdge": "https://gcp-eu-personalize-edge.contentstack.com"
+      "PersonalizeEdge": "https://gcp-eu-personalize-edge.contentstack.com",
+      "Preview": "https://gcp-eu-rest-preview.contentstack.com"
     }
   }
 }
