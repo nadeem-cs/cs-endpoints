@@ -1,6 +1,6 @@
 {
-  "aws": {
-    "na": {
+  "AWS": {
+    "NA": {
       "application": "https://app.contentstack.com",
       "contentDelivery": "https://cdn.contentstack.io",
       "contentManagement": "https://api.contentstack.io",
@@ -18,7 +18,7 @@
       "personalizeManagement": "https://personalize-api.contentstack.com",
       "personalizeEdge": "https://personalize-edge.contentstack.com"
     },
-    "eu": {
+    "EU": {
       "application": "https://eu-app.contentstack.com",
       "contentDelivery": "https://eu-cdn.contentstack.com",
       "contentManagement": "https://eu-api.contentstack.com",
@@ -36,7 +36,7 @@
       "personalizeManagement": "https://eu-personalize-api.contentstack.com",
       "personalizeEdge": "https://eu-personalize-edge.contentstack.com"
     },
-    "au": {
+    "AU": {
       "application": "https://au-app.contentstack.com",
       "contentDelivery": "https://au-cdn.contentstack.com",
       "contentManagement": "https://au-api.contentstack.com",
@@ -55,8 +55,8 @@
       "personalizeEdge": "https://au-personalize-edge.contentstack.com"
     }
   },
-  "azure": {
-    "na": {
+  "AZURE": {
+    "NA": {
       "application": "https://azure-na-app.contentstack.com",
       "contentDelivery": "https://azure-na-cdn.contentstack.com",
       "contentManagement": "https://azure-na-api.contentstack.com",
@@ -74,7 +74,7 @@
       "personalizeManagement": "https://azure-na-personalize-api.contentstack.com",
       "personalizeEdge": "https://azure-na-personalize-edge.contentstack.com"
     },
-    "eu": {
+    "EU": {
       "application": "https://azure-eu-app.contentstack.com",
       "contentDelivery": "https://azure-eu-cdn.contentstack.com",
       "contentManagement": "https://azure-eu-api.contentstack.com",
@@ -93,8 +93,8 @@
       "personalizeEdge": "https://azure-eu-personalize-edge.contentstack.com"
     }
   },
-  "gcp": {
-    "na": {
+  "GCP": {
+    "NA": {
       "application": "https://gcp-na-app.contentstack.com",
       "contentDelivery": "https://gcp-na-cdn.contentstack.com",
       "contentManagement": "https://gcp-na-api.contentstack.com",
@@ -112,7 +112,7 @@
       "personalizeManagement": "https://gcp-na-personalize-api.contentstack.com",
       "personalizeEdge": "https://gcp-na-personalize-edge.contentstack.com"
     },
-    "eu": {
+    "EU": {
       "application": "https://gcp-eu-app.contentstack.com",
       "contentDelivery": "https://gcp-eu-cdn.contentstack.com",
       "contentManagement": "https://gcp-eu-api.contentstack.com",
